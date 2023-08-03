@@ -32,6 +32,10 @@ This project is a Single Page Application (SPA) about the unvierse to practice t
 
 
 
+https://github.com/lucasmichels/exp_spa-universe/assets/39132280/1cec9379-1edd-4b22-9f13-ff9babf11af7
+
+
+
 ## Authors
 
 - [@lucasmichels](https://www.github.com/lucasmichels)
